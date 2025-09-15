@@ -43,7 +43,7 @@ Taman di mana setiap orang dapat datang dengan rasa sakit mereka dan pergi denga
 
 ### 🎶 Dengarkan Lagu Pertama EDÉM
 
-**Rasakan kekuatan penyembuhan :** [Dengarkan Lagu-lagu EDÉM](edem_manifest/EDEM_SONGS.md)
+**Rasakan kekuatan penyembuhan :** [Dengarkan Lagu-lagu EDÉM](EDEM_SONGS.md)
 
 *Ini bukan hanya musik. Ini adalah jiwa Anda yang berbicara kepada Anda.*
 
